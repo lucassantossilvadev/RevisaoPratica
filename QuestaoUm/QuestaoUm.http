@@ -1,0 +1,6 @@
+@QuestaoUm_HostAddress = http://localhost:5123
+
+GET {{QuestaoUm_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

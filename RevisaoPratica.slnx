@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="QuestaoDois/QuestaoDois.csproj" />
+  <Project Path="QuestaoUm/QuestaoUm.csproj" />
+</Solution>
